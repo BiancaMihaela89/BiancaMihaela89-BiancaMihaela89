@@ -1,6 +1,6 @@
-👋 Hi, I’m Bianca and I am a Junior QA Engineer.
+# 👋 Hi, I’m Bianca and I am a Junior QA Engineer.
 
-👀 I’m interested in gaining as much knowledge as possible in this field and also become proficient in Test Automation.
+👯 I’m looking to collaborate on Automation Testing or Manual testing 💻
 
 In case you have any job opportunities don't hesitate to contact me at : vladaiabiancam@gmail.com
 
