@@ -7,3 +7,4 @@ In case you have any job opportunities don't hesitate to contact me at : vladaia
 Thank you for your interest.
 
 Hope we keep in touch !
+
